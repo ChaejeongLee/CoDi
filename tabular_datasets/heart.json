@@ -1,0 +1,166 @@
+{
+    "columns": [
+        {
+            "i2s": [
+                "58",
+                "57",
+                "54",
+                "59",
+                "52",
+                "51",
+                "56",
+                "62",
+                "60",
+                "44",
+                "64",
+                "41",
+                "63",
+                "67",
+                "61",
+                "55",
+                "65",
+                "43",
+                "42",
+                "66",
+                "45",
+                "48",
+                "46",
+                "53",
+                "50",
+                "47",
+                "49",
+                "35",
+                "39",
+                "70",
+                "68",
+                "38",
+                "71",
+                "40",
+                "69",
+                "37",
+                "34",
+                "29",
+                "76",
+                "77",
+                "74"
+            ],
+            "name": "age",
+            "size": 41,
+            "type": "categorical"
+        },
+        {
+            "i2s": [
+                "1",
+                "0"
+            ],
+            "name": "sex",
+            "size": 2,
+            "type": "categorical"
+        },
+        {
+            "i2s": [
+                "0",
+                "2",
+                "1",
+                "3"
+            ],
+            "name": "cp",
+            "size": 4,
+            "type": "categorical"
+        },
+        {
+            "max": 200.0,
+            "min": 94.0,
+            "name": "trestbps",
+            "type": "continuous"
+        },
+        {
+            "max": 564.0,
+            "min": 126.0,
+            "name": "chol",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                "0",
+                "1"
+            ],
+            "name": "fbs",
+            "size": 2,
+            "type": "categorical"
+        },
+        {
+            "i2s": [
+                "1",
+                "0",
+                "2"
+            ],
+            "name": "restecg",
+            "size": 3,
+            "type": "categorical"
+        },
+        {
+            "max": 202.0,
+            "min": 71.0,
+            "name": "thalach",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                "0",
+                "1"
+            ],
+            "name": "exang",
+            "size": 2,
+            "type": "categorical"
+        },
+        {
+            "max": 6.2,
+            "min": 0.0,
+            "name": "oldpeak",
+            "type": "continuous"
+        },
+        {
+            "i2s": [
+                "1",
+                "2",
+                "0"
+            ],
+            "name": "slope",
+            "size": 3,
+            "type": "categorical"
+        },
+        {
+            "i2s": [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "name": "ca",
+            "size": 5,
+            "type": "categorical"
+        },
+        {
+            "i2s": [
+                "2",
+                "3",
+                "1"
+            ],
+            "name": "thal",
+            "size": 3,
+            "type": "categorical"
+        },
+        {
+            "i2s": [
+                "1",
+                "0"
+            ],
+            "name": "label",
+            "size": 2,
+            "type": "categorical"
+        }
+    ],
+    "problem_type": "binary_classification"
+}
